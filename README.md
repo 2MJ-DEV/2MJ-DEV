@@ -50,22 +50,18 @@ Voici quelques projets sur lesquels je travaille actuellement :
 - **🌐 Portfolio de développeur** : Un site portfolio pour présenter mes travaux et projets.
 
 ---
+## <h3 align="center"> <b>📊 Statistiques GitHub</b> </h3>
+
+![Les statistiques GitHub de Jules Mukadi](https://github-readme-stats.vercel.app/api?username=2MJ-DEV&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2MJ-DEV&theme=onedark&hide_border=false)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=2MJ-DEV&layout=compact&theme=radical) 
+
+## <h3 align="center"> <b>🏆 Trophées GitHub </b> </h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=2MJ-DEV&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=2MJ-DEV&no-bg=true&no-frame=true&theme=radical&hide=Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=2MJ-DEV&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Les statistiques GitHub de Jules Mukadi](https://github-readme-stats.vercel.app/api?username=2MJ-DEV&show_icons=true&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2MJ-DEV&theme=onedark&hide_border=false)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=2MJ-DEV&layout=compact&theme=radical)
-
+## Visite du profil
 ![Vues de profil](https://komarev.com/ghpvc/?username=2MJ-DEV&color=blue)
-
-
----
 
 ## <h3 align="center"> <b>🌍 Restons en contact !</b> </h3>
 
