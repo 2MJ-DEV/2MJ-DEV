@@ -10,14 +10,15 @@
 2MJ-DEV/2MJ-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Salut, je suis **Jules Mukadi** !
 
 ![Bannière](./banner.png)
 
+# 👋 Salut, je suis **Jules Mukadi** !
+
 ## 🚀 À propos de moi
 Je suis un **développeur logiciel passionné** originaire de la **République Démocratique du Congo CD** , spécialisé dans :
-- 🌐 **Développement web** (HTML, CSS, JavaScript, PHP, Bootstrap)
-- 🖥️ **Développement backend** (Node.js, PHP, MySQL)
+- 🌐 **Développement web** (HTML, CSS, JavaScript, PHP, Bootstrap, React)
+- 🖥️ **Développement backend** (Node.js, PHP, MySQL, Ruby rn Rails)
 - 🤖 **Projets IoT** (Arduino, Bluetooth)
 
 J'ai obtenu un **diplôme en Génie Logiciel** 🎓 à l'**Université Protestante de Lubumbashi** 🏛️.
