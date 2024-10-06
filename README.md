@@ -11,12 +11,14 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+
+
 ![Bannière](./banner.png)
 
-# 👋 Salut, je suis **Jules Mukadi** !
+# <h1 align="center"> 👋 Salut, je suis <b>Jules Mukadi</b> !</h1>
 
-## 🚀 À propos de moi
-Je suis un **développeur logiciel passionné** originaire de la **République Démocratique du Congo CD** , spécialisé dans :
+## <h3 align="center"><b>🚀 À propos de moi</b></h3>
+ Je suis un **développeur logiciel passionné** originaire de la **République Démocratique du Congo CD** , spécialisé dans :
 - 🌐 **Développement web** (HTML, CSS, JavaScript, PHP, Bootstrap, React)
 - 🖥️ **Développement backend** (Node.js, PHP, MySQL, Ruby rn Rails)
 - 🤖 **Projets IoT** (Arduino, Bluetooth)
@@ -25,7 +27,7 @@ J'ai obtenu un **diplôme en Génie Logiciel** 🎓 à l'**Université Protestan
 
 ---
 
-## 🛠️ Technologies & Outils
+## <h3 align="center"><b>🛠️ Technologies & Outils </b>  </h3>
 Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 
 - **Frontend** : ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=333)
@@ -39,7 +41,7 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 
 ---
 
-## 💼 Projets en cours
+## <h3 align="center"><b>💼 Projets en cours </b> </h3>
 Voici quelques projets sur lesquels je travaille actuellement :
 
 - **📚 Système de gestion scolaire** : Une application web pour gérer les étudiants, les enseignants et les paiements.
@@ -48,7 +50,7 @@ Voici quelques projets sur lesquels je travaille actuellement :
 
 ---
 
-## 🌍 Restons en contact !
+## <h3 align="center"> <b>🌍 Restons en contact !</b>  </h3>
 Tu peux me retrouver sur :
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/julesmukadi)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/2MJ-DEV)
