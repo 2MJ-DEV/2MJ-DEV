@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ## <h3 align="center"><b>🚀 À propos de moi</b></h3>
  Je suis un **développeur web passionné** originaire de la **République Démocratique du Congo CD** , spécialisé dans :
 - 🌐 **Développement web** (HTML, CSS, JavaScript, PHP, Bootstrap, React)
-- 🖥️ **Développement backend** (Node.js, PHP, MySQL, Ruby rn Rails)
+- 🖥️ **Développement backend** (Node.js, PHP, MySQL, Ruby on Rails)
 - 🤖 **Projets IoT** (Arduino, Bluetooth)
 
 J'ai obtenu un **diplôme en Génie Logiciel** 🎓 à l'**Université Protestante de Lubumbashi** 🏛️.
