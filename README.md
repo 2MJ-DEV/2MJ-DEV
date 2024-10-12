@@ -59,6 +59,7 @@ Voici quelques projets sur lesquels je travaille actuellement :
 ## <h3 align="center"> <b>🏆 Trophées GitHub </b> </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=2MJ-DEV&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![An image of @2mjdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2mjdev)](https://holopin.io/@2mjdev)
 
 ## Visite du profil
 ![Vues de profil](https://komarev.com/ghpvc/?username=2MJ-DEV&color=blue)
