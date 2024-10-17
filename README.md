@@ -32,13 +32,13 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 
 - **Frontend** : ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=333)
 
-- **Backend** : ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=fff) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=fff)
+- **Backend** : ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
 
 - **Bases de données** : ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) 
 - **Outils** : ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
 
-- **Frame-work** : ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=fff) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
+- **Frame-work** : ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=fff)I
 
 ---
 
