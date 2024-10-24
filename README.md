@@ -62,7 +62,6 @@ Voici quelques projets sur lesquels je travaille actuellement :
 [![An image of @2mjdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2mjdev)](https://holopin.io/@2mjdev)
 
 ## Visite du profil
-![Vues de profil](https://komarev.com/ghpvc/?username=2MJ-DEV&color=blue)
 [![](https://visitcount.itsvg.in/api?id=2MJ-DEV&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## <h3 align="center"> <b>🌍 Restons en contact !</b> </h3>
