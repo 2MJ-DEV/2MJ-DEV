@@ -28,19 +28,19 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## <h3 align="center"><b>🛠️ Technologies & Outils </b>  </h3>
-Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
+Voici quelques-unes des technologies et outils avec lesquels j'aime travailler : 
 
-- **Frontend** : ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=333)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- **Backend** : ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff)
-
-- **Bases de données** : ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff) 
-- **Outils** : ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
-
-
-- **Frame-work** : ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=fff)
-
----
+ ---
 
 ## <h3 align="center"><b>💼 Projets en cours </b> </h3>
 Voici quelques projets sur lesquels je travaille actuellement :
@@ -58,7 +58,8 @@ Voici quelques projets sur lesquels je travaille actuellement :
 
 ## <h3 align="center"> <b>🏆 Trophées GitHub </b> </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=2MJ-DEV&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=2MJ-DEV&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy) 
+
 [![An image of @2mjdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2mjdev)](https://holopin.io/@2mjdev)
 
 ## Visite du profil
