@@ -19,8 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 ## <h3 align="center"><b>🚀 À propos de moi</b></h3>
  Je suis un **développeur web passionné** originaire de la **République Démocratique du Congo CD** , spécialisé dans :
-- 🌐 **Développement web** (HTML, CSS, JavaScript, PHP, Bootstrap, React)
-- 🖥️ **Développement backend** (Node.js, PHP, MySQL, Ruby on Rails)
+- 🌐 **Développement web** (HTML, CSS, JavaScript, PHP, tailwind)
+- 🖥️ **Développement backend** ( MySQL)
 <!--  - 🤖 **Projets IoT** (Arduino, Bluetooth) -->
 
 <!-- J'ai obtenu un **diplôme en Génie Logiciel** 🎓 à l'**Université Protestante de Lubumbashi** 🏛️. -->
@@ -38,7 +38,7 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 - **Outils** : ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
 
-- **Frame-work** : ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=fff)I
+- **Frame-work** : ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=fff)
 
 ---
 
@@ -68,7 +68,7 @@ Voici quelques projets sur lesquels je travaille actuellement :
 
 Tu peux me retrouver sur :
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/)
- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/2MJ-DEV) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://web.facebook.com/2MJULES.MKD/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/2mjules/) [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=portfolio&logoColor=fff)](https://mon-portfolio-dev.vercel.app) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff)](https://wa.me/243998535521)
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/2MJ-DEV) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://web.facebook.com/2MJULES.MKD/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/2mjules/) [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=portfolio&logoColor=fff)](https://julesmukadi.netlify.app) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff)](https://wa.me/243998535521)
 ---
 
 ![Image de fin](./footer.png)
