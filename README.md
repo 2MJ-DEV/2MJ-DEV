@@ -46,7 +46,6 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 Voici quelques projets sur lesquels je travaille actuellement :
 
 - **📚 Système de gestion scolaire** : Une application web pour gérer les étudiants, les enseignants et les paiements.
-- **🚗 Voiture RC contrôlée par Bluetooth** : Un projet basé sur Arduino pour contrôler une voiture RC via Bluetooth.
 - **🌐 Portfolio de développeur** : Un site portfolio pour présenter mes travaux et projets.
 
 ---
