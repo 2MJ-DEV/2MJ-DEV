@@ -51,9 +51,11 @@ Voici quelques projets sur lesquels je travaille actuellement :
 ---
 ## <h3 align="center"> <b>📊 Statistiques GitHub</b> </h3>
 
-![Les statistiques GitHub de Jules Mukadi](https://github-readme-stats.vercel.app/api?username=2MJ-DEV&show_icons=true&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2MJ-DEV&theme=onedark&hide_border=false)
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=2MJ-DEV&layout=compact&theme=radical) 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=2MJ-DEV&show_icons=true&theme=tokyonight" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2MJ-DEV&layout=compact&theme=tokyonight" />
+</p>
 
 ## <h3 align="center"> <b>🏆 Trophées GitHub </b> </h3>
 
@@ -62,7 +64,10 @@ Voici quelques projets sur lesquels je travaille actuellement :
 [![An image of @2mjdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2mjdev)](https://holopin.io/@2mjdev)
 
 ## Visite du profil
-[![](https://visitcount.itsvg.in/api?id=2MJ-DEV&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=2MJ-DEV&label=👀+Visiteurs&color=green&style=flat-square" alt="Compteur de visiteurs">
+</p>
 
 ## <h3 align="center"> <b>🌍 Restons en contact !</b> </h3>
 
