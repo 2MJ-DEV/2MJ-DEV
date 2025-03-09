@@ -57,7 +57,7 @@ Voici quelques projets sur lesquels je travaille actuellement :
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2MJ-DEV&layout=compact&theme=tokyonight" />
 </p>
 
-[![Dev.to Blog](https://img.shields.io/badge/Dev.to-2MJ--DEV-black?style=for-the-badge&logo=dev.to)](https://dev.to/2MJ-DEV)
+[![Dev.to Blog](https://img.shields.io/badge/Dev.to-2MJ--DEV-black?style=for-the-badge&logo=dev.to)](https://dev.to/jules_mukadi)
 
 ## <h3 align="center"> <b>🏆 Trophées GitHub </b> </h3>
 
