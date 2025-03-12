@@ -40,14 +40,6 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
- ---
-
-## <h3 align="center"><b>💼 Projets en cours </b> </h3>
-Voici quelques projets sur lesquels je travaille actuellement :
-
-- **📚 Système de gestion scolaire** : Une application web pour gérer les étudiants, les enseignants et les paiements.
-- **🌐 Portfolio de développeur** : Un site portfolio pour présenter mes travaux et projets.
-
 ---
 ## <h3 align="center"> <b>📊 Statistiques GitHub</b> </h3>
 
