@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 # <h1 align="center"> 👋 Salut, je suis <b>Jules Mukadi</b> !</h1>
 
 ## <h3 align="center"><b>🚀 À propos de moi</b></h3>
- Je suis un **développeur web passionné** originaire de la **République Démocratique du Congo CD** , spécialisé dans :
-- 🌐 **Développement web** (HTML, CSS, JavaScript, PHP, tailwind)
+ Je suis un **développeur web🌐 passionné** originaire de la **République Démocratique du Congo CD** , spécialisé dans :
+- 🌐 **Développement web** (HTML5, CSS3, JavaScript, tailwind)
 - 🖥️ **Développement backend** ( MySQL)
 <!--  - 🤖 **Projets IoT** (Arduino, Bluetooth) -->
 
