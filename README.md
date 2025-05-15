@@ -38,8 +38,8 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 ## <h3 align="center"> <b>📊 Statistiques GitHub</b> </h3>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=2MJ-DEV&show_icons=true&theme=tokyonight" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2MJ-DEV&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=2mj-dev&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2mj-dev&layout=compact&theme=tokyonight" />
 </p>
 
 [![Dev.to Blog](https://img.shields.io/badge/Dev.to-2MJ--DEV-black?style=for-the-badge&logo=dev.to)](https://dev.to/jules_mukadi)
