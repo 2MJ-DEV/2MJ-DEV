@@ -11,10 +11,6 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
-![Bannière](./banner.png)
-
 # <h1 align="center"> 👋 Salut, je suis <b>Jules Mukadi</b> !</h1>
 
 ## <h3 align="center"><b>🚀 À propos de moi</b></h3>
@@ -68,6 +64,4 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 Tu peux me retrouver sur :
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/)
  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/2MJ-DEV) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://web.facebook.com/2MJULES.MKD/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/2mjules/) [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=portfolio&logoColor=fff)](https://julesmukadi.me) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff)](https://wa.me/243998535521)
----
 
-![Image de fin](./footer.png)
