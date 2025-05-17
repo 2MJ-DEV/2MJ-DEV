@@ -11,6 +11,8 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+![Bannière](./banner.png)
+
 # <h1 align="center"> 👋 Salut, je suis <b>Jules Mukadi</b> !</h1>
 
 ## <h3 align="center"><b>🚀 À propos de moi</b></h3>
