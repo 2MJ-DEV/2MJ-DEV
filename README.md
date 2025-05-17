@@ -13,17 +13,12 @@ You can click the Preview link to take a look at your changes.
 
 ![Bannière](./banner.png)
 
-# <h1 align="center"> 👋 Salut, je suis <b>Jules Mukadi</b> !</h1>
+<!-- # <h1 align="center"> 👋 Salut, je suis <b>Jules Mukadi</b> !</h1> -->
 
 ## <h3 align="center"><b>🚀 À propos de moi</b></h3>
  Je suis un **développeur web🌐 passionné** originaire de la **République Démocratique du Congo CD** , spécialisé dans :
 - 🌐 **Développement web** (HTML5, CSS3, JavaScript, tailwind)
 - 🖥️ **Développement backend** ( MySQL)
-<!--  - 🤖 **Projets IoT** (Arduino, Bluetooth) -->
-
-<!-- J'ai obtenu un **diplôme en Génie Logiciel** 🎓 à l'**Université Protestante de Lubumbashi** 🏛️. -->
-
----
 
 ## <h3 align="center"><b>🛠️ Technologies & Outils </b>  </h3>
 Voici quelques-unes des technologies et outils avec lesquels j'aime travailler : 
@@ -36,7 +31,7 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+
 ## <h3 align="center"> <b>📊 Statistiques GitHub</b> </h3>
 
 <p align="center">
