@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## 👋 Salut, je suis @2MJ-DEV
+## 👋 Salut, je suis Jules MUKADI
 
 #### 👀 Je suis intéressé par
 - le développement web,
