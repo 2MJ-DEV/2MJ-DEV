@@ -6,14 +6,41 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<!---
-2MJ-DEV/2MJ-DEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👋 Salut, je suis @2MJ-DEV
 
+#### 👀 Je suis intéressé par
+- le développement web,
+- la création d’interfaces modernes et les technologies front-end.
+
+#### 💻 Projet
+Je travaille actuellemenet sur :
+- [BuilderMania](https://buildermania.vercel.app/) : Une application web permettant de mettre en contacte (en relation) les développeurs, start-up et porteurs des projets.
+  
+#### 🌱 Je travaille actuellement avec
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+ #### 📫 Comment me contacter 
+ - [linkedin](https://www.linkedin.com/in/jules-mukadi-552045297/)
+ - [mon-portfolio](https://julesmukadi.me)
+ - [GitHub](https://github.com/2MJ-DEV)
+
+> ⚡ Anecdote : J’adore automatiser les tâches répétitives pour gagner du temps et améliorer mes projets !
+
+---
+
+Merci pour votre visite 👋  
+N’hésitez pas à explorer mes projets ci-dessous 🚀
+
+<img src="https://komarev.com/ghpvc/?username=2MJ-DEV&label=👀+Visiteurs&color=green&style=flat-square" alt="Visiteurs">
+
+<!---
 ![Bannière](./banner.png)
 
-<!-- # <h1 align="center"> 👋 Salut, je suis <b>Jules Mukadi</b> !</h1> -->
+ # <h1 align="center"> 👋 Salut, je suis <b>Jules Mukadi</b> !</h1>
 
 ## <h3 align="center"><b>🚀 À propos de moi</b></h3>
  Je suis un **développeur web🌐 passionné** originaire de la **République Démocratique du Congo CD** , spécialisé dans :
@@ -57,5 +84,5 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 
 Tu peux me retrouver sur :
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/)
- [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/2MJ-DEV) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://web.facebook.com/2MJULES.MKD/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/2mjules/) [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=portfolio&logoColor=fff)](https://julesmukadi.me) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff)](https://wa.me/243998535521)
+ [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/2MJ-DEV) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://web.facebook.com/2MJULES.MKD/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/2mjules/) [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=portfolio&logoColor=fff)](https://julesmukadi.me) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff)](https://wa.me/243998535521) -->
 
