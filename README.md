@@ -15,6 +15,7 @@
 #### 💻 Projet
 Je travaille actuellemenet sur :
 - [BuilderMania](https://buildermania.vercel.app/) : Une application web permettant de mettre en contacte (en relation) les développeurs, start-up et porteurs des projets.
+- [ BuyMeACoffee-Africa ](https://buymeacoffeeafrica.vercel.app) : Une plateforme africaine inspirée de Buy Me a Coffee, permettant aux créateurs de recevoir du soutien financier via Mobile Money (Airtel, Orange, M-Pesa, etc.) grâce à l’intégration de l’API...
   
 #### 🌱 Je travaille actuellement avec
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -85,4 +86,5 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 Tu peux me retrouver sur :
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/)
  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/2MJ-DEV) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://web.facebook.com/2MJULES.MKD/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/2mjules/) [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=portfolio&logoColor=fff)](https://julesmukadi.me) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff)](https://wa.me/243998535521) -->
+
 
