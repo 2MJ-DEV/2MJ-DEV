@@ -24,6 +24,8 @@ Je travaille actuellemenet sur :
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+[![An image of @2mjdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2mjdev)](https://holopin.io/@2mjdev)
+
  #### 📫 Comment me contacter 
  - [linkedin](https://www.linkedin.com/in/jules-mukadi-552045297/)
  - [mon-portfolio](https://julesmukadi.me)
@@ -86,5 +88,6 @@ Voici quelques-unes des technologies et outils avec lesquels j'aime travailler :
 Tu peux me retrouver sur :
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/jules-mukadi-552045297/)
  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/2MJ-DEV) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=fff)](https://web.facebook.com/2MJULES.MKD/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff)](https://www.instagram.com/2mjules/) [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?logo=portfolio&logoColor=fff)](https://julesmukadi.me) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff)](https://wa.me/243998535521) -->
+
 
 
