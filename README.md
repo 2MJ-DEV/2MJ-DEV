@@ -23,7 +23,6 @@ An African platform inspired by Buy Me a Coffee, allowing creators to receive fi
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -38,7 +37,7 @@ Feel free to contact me or check out my work :
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-mukadi-552045297/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2MJ-DEV)
-[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=portfolio&logoColor=white)](https://julesmukadi.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=portfolio&logoColor=white)](https://mukadi.vercel.app/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/2MJULES.MKD/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/2mjules/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243998535521)
@@ -53,3 +52,4 @@ Feel free to contact me or check out my work :
 
 **Thank you for visiting! 👋**
 Feel free to explore my projects below
+
