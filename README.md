@@ -1,24 +1,21 @@
-## 👋 Hi, I'm Jules MUKADI
+## 👋 Salut, je suis Jules MUKADI
 
-A Frontend Developer passionate about creating modern and high-performing interfaces.
+Développeur front-end passionné par la création d'interfaces modernes et performantes.
 
-### Areas of Interest
+### Domaines d'intérêt
 
-- Modern web development
-- Creating intuitive user interfaces
-- Frontend technologies and performance optimization
+- Développement web moderne
+- Création d'interfaces utilisateur
+- Technologies front-end et optimisation des performances
 
-### Current Projects
+### Projets en cours
 
-I'm currently working on several exciting projects:
+Je travaille actuellement sur plusieurs projets passionnants :
 
-- **[BuilderMania](https://buildermania.vercel.app/)**
-An innovative web platform that connects developers, startups, and project leaders. BuilderMania facilitates collaboration and helps transform ideas into concrete projects.
+- **[BuilderMania](https://buildermania.vercel.app/)** Une plateforme web innovante qui met en relation développeurs, startups et chefs de projet. BuilderMania facilite la collaboration et aide à concrétiser les idées.
+- **[BuyMeACoffee-Africa](https://buymeacoffeeafrica.vercel.app)** Une plateforme africaine inspirée de Buy Me a Coffee, permettant aux créateurs de recevoir un soutien financier via Mobile Money (Airtel, Orange, M-Pesa, etc.). L'intégration d'API locales simplifie les transactions pour les créateurs africains.
 
-- **[BuyMeACoffee-Africa](https://buymeacoffeeafrica.vercel.app)**
-An African platform inspired by Buy Me a Coffee, allowing creators to receive financial support via Mobile Money (Airtel, Orange, M-Pesa, etc.). Local API integration makes transactions easier for African creators.
-
-### Technologies & Tools
+### Technologies & Outils
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -28,27 +25,24 @@ An African platform inspired by Buy Me a Coffee, allowing creators to receive fi
 
 ### Badges
 
-[![An image of @2mjdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/2mjdev)](https://holopin.io/@2mjdev)
+[![Image des badges Holopin de @2mjdev, lien vers son profil Holopin complet](https://holopin.me/2mjdev)](https://holopin.io/@2mjdev)
 
-### Contact & Networks
+### Contact et réseaux
 
-Feel free to contact me or check out my work :
+N'hésitez pas à me contacter ou à consulter mon travail.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jules-mukadi-552045297/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/2MJ-DEV)
 [![Portfolio](https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=portfolio&logoColor=white)](https://mukadi.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243837449954)
 
-### In short
+### En bref
 
-> ⚡ **Fun fact**: I love automating repetitive tasks to save time and improve the efficiency of my projects!
+> ⚡ **Anecdote** : J’adore automatiser les tâches répétitives pour gagner du temps et améliorer l’efficacité de mes projets !
 
-### Statistics
+### Statistiques
 
 <img src="https://komarev.com/ghpvc/?username=2MJ-DEV&label=👀+Visitors&color=green&style=for-the-badge" alt="Visitors">
 
-**Thank you for visiting! 👋**
-Feel free to explore my projects below
-
-
-
+**Merci de votre visite ! 👋**
+N'hésitez pas à découvrir mes projets ci-dessous.
