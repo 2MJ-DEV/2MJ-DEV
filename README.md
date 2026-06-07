@@ -12,6 +12,7 @@ Développeur front-end passionné par la création d'interfaces modernes et perf
 
 Je travaille actuellement sur plusieurs projets passionnants :
 
+- **[FEZA PAY](https://github.com/2MJ-DEV/FEZA-SITE)** est une plateforme fintech destinée à faciliter les micro‑transferts d’argent transfrontaliers entre pays africains.
 - **[BuilderMania](https://buildermania.vercel.app/)** Une plateforme web innovante qui met en relation développeurs, startups et chefs de projet. BuilderMania facilite la collaboration et aide à concrétiser les idées.
 - **[BuyMeACoffee-Africa](https://buymeacoffeeafrica.vercel.app)** Une plateforme africaine inspirée de Buy Me a Coffee, permettant aux créateurs de recevoir un soutien financier via Mobile Money (Airtel, Orange, M-Pesa, etc.). L'intégration d'API locales simplifie les transactions pour les créateurs africains.
 
